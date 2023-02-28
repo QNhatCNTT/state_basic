@@ -1,9 +1,9 @@
 # state_basic
 
-A new Flutter project.
-Project: Todo APP
-State management: provider
-Local database: sqflite
+  A new Flutter project.
+  Project: Todo APP
+    - State management: provider
+    - Local database: sqflite
 
 ## Getting Started
 
